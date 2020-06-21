@@ -1,11 +1,129 @@
 {
-  "posts": [
+  "characters": [
     {
       "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "name": "Kal-El",
+      "alias": "Superman/Clark Kent"
+    },
+    {
+      "id": 2,
+      "name": "Bruce Wayne",
+      "alias": "Batman"
+    },
+    {
+      "id": 3,
+      "name": "Diana Prince",
+      "alias": "Wonder Woman"
+    },
+    {
+      "id": 4,
+      "name": "Hal Jordan",
+      "alias": "Green Lantern"
+    },
+    {
+      "id": 5,
+      "name": "Barry Allen",
+      "alias": "Flash"
+    },
+    {
+      "id": 6,
+      "name": "Arthur Curry",
+      "alias": "Aquaman"
+    },
+    {
+      "id": 7,
+      "name": "J'onn J'onnz",
+      "alias": "Martian Manhunter"
+    },
+    {
+      "id": 8,
+      "name": "Victor Stone",
+      "alias": "Cyborg"
+    },
+    {
+      "id": 9,
+      "name": "Carter Hall",
+      "alias": "Hawkman"
+    },
+    {
+      "id": 10,
+      "name": "Kendra Saunders",
+      "alias": "Hawkgirl"
+    },
+    {
+      "id": 11,
+      "name": "Barbara Gordon",
+      "alias": "Batgirl"
+    },
+    {
+      "id": 12,
+      "name": "Dick Grayson",
+      "alias": "Nightwing"
+    },
+    {
+      "id": 13,
+      "name": "Billy Batson",
+      "alias": "Shazam!"
+    },
+    {
+      "id": 14,
+      "name": "Selina Kyle",
+      "alias": "Catwoman"
+    },
+    {
+      "id": 15,
+      "name": "Oliver Queen",
+      "alias": "Green Arrow"
+    },
+    {
+      "id": 16,
+      "name": "Zatanna Zatara",
+      "alias": "Zatanna"
+    },
+    {
+      "id": 17,
+      "name": "Lun Choi",
+      "alias": "Atom"
+    },
+    {
+      "id": 18,
+      "name": "Dinah Lance",
+      "alias": "Black Canary"
+    },
+    {
+      "id": 19,
+      "name": "Jaime Reyes",
+      "alias": "Blue Beetle"
+    },
+    {
+      "id": 20,
+      "name": "Alec Holland",
+      "alias": "Swamp Thing"
+    },
+    {
+      "id": 21,
+      "name": "Kara Zor-El",
+      "alias": "Supergirl"
+    },
+    {
+      "id": 22,
+      "name": "Kate Kane",
+      "alias": "Batwoman"
+    },
+    {
+      "id": 23,
+      "name": "Mike Carter",
+      "alias": "Booster Gold"
+    },
+    {
+      "id": 24,
+      "name": "Helena Bertinelli",
+      "alias": "Huntress"
+    },
+    {
+      "id": 25,
+      "name": "Patrick O'Brian",
+      "alias": "Plastic Man"
+    },
+  ]
 }
