@@ -2,126 +2,151 @@
   "characters": [
     {
       "id": 1,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/superman.jpg",
       "name": "Kal-El",
       "alias": "Superman"
     },
     {
       "id": 2,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/batman.jpg",
       "name": "Bruce Wayne",
       "alias": "Batman"
     },
     {
       "id": 3,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/wonder_woman.jpg",
       "name": "Diana Prince",
       "alias": "Wonder Woman"
     },
     {
       "id": 4,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/green_lantern.jpg",
       "name": "Hal Jordan",
       "alias": "Green Lantern"
     },
     {
       "id": 5,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/flash.jpg",
       "name": "Barry Allen",
-      "alias": "Flash"
+      "alias": "The Flash"
     },
     {
       "id": 6,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/aquaman.jpg",
       "name": "Arthur Curry",
       "alias": "Aquaman"
     },
     {
       "id": 7,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/martian_manhunter.jpg",
       "name": "J'onn J'onnz",
       "alias": "Martian Manhunter"
     },
     {
       "id": 8,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/cyborg.jpg",
       "name": "Victor Stone",
       "alias": "Cyborg"
     },
     {
       "id": 9,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/hawkman.jpg",
       "name": "Carter Hall",
       "alias": "Hawkman"
     },
     {
       "id": 10,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/hawkgirl.jpg",
       "name": "Kendra Saunders",
       "alias": "Hawkgirl"
     },
     {
       "id": 11,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/batgirl.jpg",
       "name": "Barbara Gordon",
       "alias": "Batgirl"
     },
     {
       "id": 12,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/nightwing.jpg",
       "name": "Dick Grayson",
       "alias": "Nightwing"
     },
     {
       "id": 13,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/shazam.jpg",
       "name": "Billy Batson",
       "alias": "Shazam!"
     },
     {
       "id": 14,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/catwoman.jpg",
       "name": "Selina Kyle",
       "alias": "Catwoman"
     },
     {
       "id": 15,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/green_arrow.jpg",
       "name": "Oliver Queen",
       "alias": "Green Arrow"
     },
     {
-      "id": 16,
+      "id": 16
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/zatanna.jpg",
       "name": "Zatanna Zatara",
       "alias": "Zatanna"
     },
     {
       "id": 17,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/atom.jpg",
       "name": "Lun Choi",
       "alias": "Atom"
     },
     {
       "id": 18,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/black_canary.jpg",
       "name": "Dinah Lance",
       "alias": "Black Canary"
     },
     {
       "id": 19,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/blue_beetle.jpg",
       "name": "Jaime Reyes",
       "alias": "Blue Beetle"
     },
     {
       "id": 20,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/swamp_thing.jpg",
       "name": "Alec Holland",
       "alias": "Swamp Thing"
     },
     {
       "id": 21,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/supergirl.jpg",
       "name": "Kara Zor-El",
       "alias": "Supergirl"
     },
     {
       "id": 22,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/batwoman.jpg",
       "name": "Kate Kane",
       "alias": "Batwoman"
     },
     {
       "id": 23,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/booster_gold.jpg",
       "name": "Mike Carter",
       "alias": "Booster Gold"
     },
     {
       "id": 24,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/huntress.jpg",
       "name": "Helena Bertinelli",
       "alias": "Huntress"
     },
     {
       "id": 25,
+      "image": "https://raw.githubusercontent.com/shaun-oneill/database/master/images/plastic_man.jpg",
       "name": "Patrick O'Brian",
       "alias": "Plastic Man"
     }
